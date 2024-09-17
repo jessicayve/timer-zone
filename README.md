@@ -7,8 +7,8 @@ O TimerZone é uma extensão para Google Chorme com objetivo de gerenciar o temp
 
  - :alarm_clock:Timer: O usuário define o tempo de tela. Uma contagem regressiva dará inicio para seu ciclo de foco.
  - :heavy_check_mark:Botão Play: Inicia a contagem do tempo definido pelo usuário.
- - :x:Botão Stop: Para a contagem antes do tempo definido pelo usuário.
- - :arrows_counterclockwise:Botão Reset: Reinicia a contagem do tempo.
+ - :x:Botão Pause: Pausa a contagem antes do tempo definido pelo usuário.
+ - :arrows_counterclockwise:Botão Stop: Para a contagem do tempo.
  Observação: Efeito sonoro :bell: é ativado ao ser finalizado o timer para sinalizar o usuário.
  
 
