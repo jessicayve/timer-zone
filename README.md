@@ -38,10 +38,10 @@ TimerZone/
 1. Clique no ícone do  **TimerZone**  na barra de ferramentas do Chrome.
 2. Defina o tempo desejado
 3. Pressione o botão  **Start**  para iniciar a sessão.
-4. Pressione  **Pause**  para encerrar a sessão a qualquer momento.
-5. Pressione **Stop** para reiniciar a contagem
+4. Pressione  **Pause**  para pausar a sessão a qualquer momento.
+5. Pressione **Stop** para parar a contagem
 
-💡  **Dica:**  Sempre que se encerrar um clico, faça uma outra atividade para relaxar antes de dar início a outro Timer Zone, assim seu foco e produtividade serão melhores.
+💡  **Dica:**  Sempre que se encerrar um ciclo, faça uma outra atividade para relaxar antes de dar início a outro Timer Zone, assim seu foco e produtividade serão melhores.
 
 ## :memo:Melhorias Futuras
 
