@@ -7,8 +7,8 @@ O TimerZone é uma extensão para Google Chorme com objetivo de gerenciar o temp
 
  - :alarm_clock:Timer: O usuário define o tempo de tela. Uma contagem regressiva dará inicio para seu ciclo de foco.
  - :heavy_check_mark:Botão Play: Inicia a contagem do tempo definido pelo usuário.
- - :x:Botão Pause: Para a contagem antes do tempo definido pelo usuário.
- - :arrows_counterclockwise:Botão Stop: Reinicia a contagem do tempo.
+ - :x:Botão Stop: Para a contagem antes do tempo definido pelo usuário.
+ - :arrows_counterclockwise:Botão Reset: Reinicia a contagem do tempo.
  Observação: Efeito sonoro :bell: é ativado ao ser finalizado o timer para sinalizar o usuário.
  
 
@@ -23,7 +23,7 @@ TimerZone/
  - manifest.json       # Configuração da extensão do Chrome
  - popup.html          # HTML da interface do popup
  - script.js           # Lógica do Pomodoro em JavaScript
- - styles.css          # Estilos da interface em CSS
+ - style.css          # Estilos da interface em CSS
 
 ## :computer:Como instalar localmente
 
@@ -38,8 +38,8 @@ TimerZone/
 1. Clique no ícone do  **TimerZone**  na barra de ferramentas do Chrome.
 2. Defina o tempo desejado
 3. Pressione o botão  **Start**  para iniciar a sessão.
-4. Pressione  **Stop**  para encerrar a sessão a qualquer momento.
-5. Pressione **Reset** para reiniciar a contagem
+4. Pressione  **Pause**  para encerrar a sessão a qualquer momento.
+5. Pressione **Stop** para reiniciar a contagem
 
 💡  **Dica:**  Sempre que se encerrar um clico, faça uma outra atividade para relaxar antes de dar início a outro Timer Zone, assim seu foco e produtividade serão melhores.
 

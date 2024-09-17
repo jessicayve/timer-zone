@@ -61,7 +61,7 @@ function startTimer() {
             totalTimeInSeconds--;
             updateDisplay();
         }
-    }, 1000); // 1000 ms = 1 segundo
+    }, 1000);
 }
 
 function stopTimer() {
