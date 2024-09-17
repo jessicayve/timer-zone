@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "TimerZone",
+    "version": "1.0",
+    "description": "Timer Simples",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "assets/timer16.png",
+        "24": "assets/timer24.png"
+      }
+    },
+    "permissions": ["storage"]
+  }
