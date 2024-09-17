@@ -23,7 +23,7 @@ TimerZone/
  - manifest.json       # Configuração da extensão do Chrome
  - popup.html          # HTML da interface do popup
  - script.js           # Lógica do Pomodoro em JavaScript
- - styles.css          # Estilos da interface em CSS
+ - style.css          # Estilos da interface em CSS
 
 ## :computer:Como instalar localmente
 
