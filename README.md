@@ -1,6 +1,6 @@
 # :clock1:TimerZone 
 
-O TimerZone é uma extensão para Google Chorme com objetivo de gerenciar o tempo de tela do usuário. A extensão permite que o usuário defina um tempo de foco que precisar. Ele recebará um aviso sonoro para alertar  que o tempo estipulado foi atingido. TimerZone é simples e bem dinâmico de usar, botões bem intuitivos e interface minimalista.
+O TimerZone é uma extensão para Google Chorme com objetivo de gerenciar o tempo de tela do usuário. A extensão permite que o usuário defina um tempo de foco que precisar. Ele receberá um aviso sonoro para alertar  que o tempo estipulado foi atingido. TimerZone é simples e bem dinâmico de usar, botões bem intuitivos e interface minimalista.
 
 
 ## :wrench:Funcionalidades

@@ -19,7 +19,7 @@ function updateDisplay() {
     display.textContent = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
 }
 
-function notifyUser() {
+export function notifyUser() {
     if (Notification.permission === "granted") {
         new Notification("Seu Tempo Acabou!", {
             body: "Seu tempo acabou! Hora de fazer uma pausa.",
@@ -28,12 +28,15 @@ function notifyUser() {
     }
 }
 
-function playAlarm() {
+export function playAlarm() {
     const alarmSound = document.getElementById('alarm-sound');
-    alarmSound.play();
-}
+    if (alarmSound) {
+      alarmSound.play();
+    }
+  }
+  
 
-function startTimer() {
+export function startTimer() {
    
 
     if (isRunning) return;
