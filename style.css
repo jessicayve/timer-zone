@@ -5,14 +5,12 @@ body {
 	text-shadow: 0 1px 1px hsl(0 0% 0% / 20%);
   margin: 3rem;
   display: flex;
-  
- 
+
 }
 
 .container {
     width: 200px;
     margin: 0 auto;
-    
 }
 
 h1 {
@@ -22,7 +20,6 @@ h1 {
 
 .titulo1{
     font-size: 20px;
-
 }
 
 #timer {
@@ -46,7 +43,7 @@ padding: 0 6px;
 padding-left: 12px;
 :focus{
     border: 3px solid #5551ff;
-}
+    }
 }
 
 .button {
